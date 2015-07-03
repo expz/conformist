@@ -1,4 +1,4 @@
-# conformist.JS
+# conformist.js
 
 Conform lines of text to a fixed-width text box by automatically resizing fonts.
 
